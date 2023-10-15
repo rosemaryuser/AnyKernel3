@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=SphinX Kernel by fjrXTR/xtrHV2
+kernel.string=sphinX Kernel by fjrXTR
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -12,8 +12,8 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=fleur
 device.name2=miel
-device.name3=
-device.name4=
+device.name3=sea
+device.name4=ocean
 device.name5=
 supported.versions=11.0-14.0
 supported.patchlevels=
