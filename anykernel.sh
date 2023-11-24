@@ -17,6 +17,8 @@ device.name4=ocean
 device.name5=rosemary
 device.name6=secret
 device.name7=maltose
+device.name8=vayu
+device.name=bhima
 supported.versions=11.0-14.0
 supported.patchlevels=
 '; } # end properties
